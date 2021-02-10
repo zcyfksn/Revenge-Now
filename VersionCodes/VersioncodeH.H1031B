@@ -1,0 +1,10 @@
+[Version]
+VersionNumber=H.H1108
+UpdatedFromVersion=H.H1031B
+PackageSize=13,323,708
+PackageCount=1
+LauncherUpdateRequired=0
+Launcher=LauncherB.dat
+Encrypted=1
+Blocker=0
+

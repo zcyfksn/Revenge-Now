@@ -1,0 +1,8 @@
+[Version]
+VersionNumber=H.G1208C
+UpdatedFromVersion=H.G1208B
+PackageSize=1,233,402
+PackageCount=1
+LauncherUpdateRequired=1
+Launcher=LauncherA.dat
+

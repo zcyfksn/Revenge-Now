@@ -1,0 +1,8 @@
+[Version]
+VersionNumber=H.H1024
+UpdatedFromVersion=H.H1015B
+PackageSize=89,829,392
+PackageCount=1
+LauncherUpdateRequired=1
+Launcher=LauncherB.dat
+Encrypted=1
