@@ -1,5 +1,11 @@
 [Version]
-VersionNumber=0.99.901
-UpdatedFromVersion=0.99.901
-PackageSize=
+Encrypted=0
+Launcher=LauncherB.dat
+PackageSize=2,333,888
+PackageCount=1
+Blocker=0
 LauncherUpdateRequired=0
+VersionNumber=0.99.902
+UpdatedFromVersion=0.99.901
+
+
